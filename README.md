@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduardKhaev (Eduard Puchaew)
-- 👀 I’m interested in Software-Developement
-- 🌱 I’m currently learning Frontend Developer (HTML,CSS, Javascript)
+- 👀 I am Frontend Developer
+- 🌱 My Stack is HTML, (S)CSS, JS, Angular, Typescript
 - 📫 jamool@gmx.de
 
 
